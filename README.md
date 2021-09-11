@@ -4,3 +4,7 @@
 >於DevFest 2020所示範的Action
 
 於此提供原始碼供參考
+
+# 如何在DialogFlow上匯入「agent.zip」設定檔
+1. ![pic1](pic/description-1.png)
+1. ![pic2](pic/description-2.png)
